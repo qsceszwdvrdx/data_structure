@@ -4,4 +4,4 @@ linked-list
   
   ![image](https://github.com/qsceszwdvrdx/hello/blob/master/week1/linked-list.png)
   
-  
+  k
