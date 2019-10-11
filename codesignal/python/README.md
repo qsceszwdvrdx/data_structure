@@ -14,7 +14,7 @@ modulus(n) = -1.
 
 如果該數字不是整數，則n返回-1該函數，n % 2否則返回。如果數字表示整數，則可以保證不帶小數點。
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 2.[simple-sort.py](https://github.com/qsceszwdvrdx/hello/blob/master/codesignal/python/simple-sort.py) codesignal python simple-sort
