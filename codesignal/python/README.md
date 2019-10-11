@@ -1,4 +1,4 @@
-codesignal python Modulus [Modulus.py](https://github.com/qsceszwdvrdx/hello/blob/master/codesignal/python/Modulus.py)
+codesignal python Modulus   [Modulus.py](https://github.com/qsceszwdvrdx/hello/blob/master/codesignal/python/Modulus.py)
 
 To fix this, you've decided to write your own modulus operator as a function. 
 Your task is to implement a function that, given a number n, returns -1 if this number is not an integer and n % 2 otherwise.
