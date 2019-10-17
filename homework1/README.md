@@ -1,6 +1,6 @@
 # 想法
 
-1. 先找一個數字當標準
+1. 先找一個數字當標準 （我是設定第一個）
 
 2. 比大小
     用list分開位置
@@ -12,5 +12,5 @@
 
 ！！記得設定停下迴圈
 
-
+![image](https://github.com/qsceszwdvrdx/hello/blob/master/homework1/Quicksort.png)
     
