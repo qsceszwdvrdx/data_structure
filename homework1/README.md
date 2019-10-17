@@ -12,7 +12,7 @@
 
 ！！記得設定停下迴圈
 
-（https://github.com/qsceszwdvrdx/hello/blob/master/homework1/quicksort.ipynb）
+（https://github.com/qsceszwdvrdx/hello/blob/master/homework1/quicksort.ipynb)
 
 ![image](https://github.com/qsceszwdvrdx/hello/blob/master/homework1/Quicksort.png)
     
