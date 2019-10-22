@@ -12,5 +12,7 @@
 
 ！！記得設定停下迴圈
 
+! ! middle要記得設定
+
 ![image](https://github.com/qsceszwdvrdx/hello/blob/master/Q.jpg)
 
