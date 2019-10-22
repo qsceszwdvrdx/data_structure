@@ -10,9 +10,9 @@
     
 3. 全部比完
 
-！！記得設定停下迴圈
+！！list都取完 記得設定停下迴圈 
 
-! ! middle要記得設定
+！！middle要記得設定 不然會完全開始不了
 
 ![image](https://github.com/qsceszwdvrdx/hello/blob/master/Q.jpg)
 
