@@ -12,5 +12,5 @@
 
 ！！記得設定停下迴圈
 
-![image](https://github.com/qsceszwdvrdx/hello/blob/master/homework1/Quicksort.png)
+![image](https://github.com/qsceszwdvrdx/hello/blob/master/quicksort.jpg)
     
