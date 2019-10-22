@@ -12,5 +12,6 @@
 
 ！！記得設定停下迴圈
 
-![image](https://github.com/qsceszwdvrdx/hello/blob/master/quicksort.jpg)
-    
+![image](https://github.com/qsceszwdvrdx/hello/blob/master/Ｑ.jpg)
+
+<img src "https://github.com/qsceszwdvrdx/hello/blob/master/Ｑ.jpg" width=50% height=50%>
