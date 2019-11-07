@@ -1,7 +1,7 @@
 
 ## HEAP SORT
 
-    一次比三個,最大的放上面,所以每執行一次的都只有1個數是ok的
+    一次比三個,最大的放上面,所以每執行一次的都只有1個數是確定的
 
 
 ## MERGE SORT
@@ -10,3 +10,9 @@
      所以後面的步驟可以執行比較少次
      
 # COMPARE      
+
+![image](https://github.com/qsceszwdvrdx/hello/blob/master/homework2/img/sort-compare.png)
+
+    這兩種SORT都是相對穩定的演算法,雖然上限不高,但是下限也很高
+
+截圖來自:http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html    
