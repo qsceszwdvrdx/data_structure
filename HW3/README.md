@@ -17,10 +17,11 @@
 
 ### 時間複雜度比較
 
-![image](.png)
+![image](https://image.slidesharecdn.com/tree-160731205832/95/tree-data-structure-38-638.jpg?cb=1470282442)
 
 ### 資料參考
 
     http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html
     http://alrightchiu.github.io/SecondRound/binary-search-tree-introjian-jie.html
     https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9
+    https://image.slidesharecdn.com/tree-160731205832/95/tree-data-structure-38-638.jpg?cb=1470282442
