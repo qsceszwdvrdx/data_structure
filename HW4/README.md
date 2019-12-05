@@ -16,4 +16,5 @@
 ### 資料參考
 
     http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html
+    https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8
     
